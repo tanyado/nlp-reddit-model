@@ -1,4 +1,4 @@
-# project-3
+# Subreddit NLP Model
 
 Slides: `NLP-slide-deck.pdf` in this same directory
 
